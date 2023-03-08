@@ -581,3 +581,20 @@ background: rgb(26, 26, 144);
   margin-bottom: 10px;
   width: 800px;
 }
+
+.msme-image{
+  float: right;
+  margin-top: -200px;
+  margin-right: 200px;
+  width: 500px;
+  border-radius: 50px;
+
+}
+
+.page-foot-2{
+  background-color: rgb(2, 2, 53);
+}
+.footer-2{
+  margin-top: 160px;
+
+}
